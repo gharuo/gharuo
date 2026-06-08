@@ -16,10 +16,6 @@ Busco sempre entregar soluções com boa experiência de usuário, código limpo
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-  ### Github Stats
-
-   [![GitHub Streak](https://streak-stats.demolab.com?user=gharuo&theme=tokyonight-duo&locale=pt_BR&mode=weekly&exclude_days=Sun&hide_longest_streak=true)](https://git.io/streak-stats)
-
    ### Estatísticas
 
       
