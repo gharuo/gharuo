@@ -108,7 +108,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Most Used Languages</text>
+      >Linguagens mais usadas</text>
     </g>
       </g>
     
@@ -120,7 +120,7 @@
           
     <svg data-testid="lang-items" x="25">
       
-    <text x="0" y="11" class="stat bold" fill="#38bdae">No languages data.</text>
+    <text x="0" y="11" class="stat bold" fill="#38bdae">Sem dados de linguagens.</text>
   
     </svg>
   
