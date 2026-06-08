@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&locale=pt-br&hide=issues,contribs,stars
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&locale=pt-br&hide=issues,stars&card_width=300
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br&card_width=300
           path: profile/top-langs.svg
           token: ${{ secrets.GH_TOKEN }}
 
