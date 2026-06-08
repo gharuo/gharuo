@@ -5,10 +5,6 @@ Tenho experiência na criação de componentes reutilizáveis, integração com 
 Atualmente estou expandindo meus conhecimentos para o desenvolvimento fullstack, estudando back-end com .NET/C#, arquitetura de software, system design e padrões para aplicações mais robustas.
 Busco sempre entregar soluções com boa experiência de usuário, código limpo e estrutura preparada para crescimento.
 
-### Redes/Contato
-
-
-
    ### Linguagens e Ferramentas
 
    ![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
