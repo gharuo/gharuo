@@ -22,12 +22,24 @@ Busco sempre entregar soluções com boa experiência de usuário, código limpo
 
    ### Estatísticas
 
-  <p align="left">
-      <a href="https://github.com/gharuo?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gharuo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <!-- <a href="https://github.com/gharuo?tab=repositories&sort=stargazers">dw
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gharuo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
-    
-     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/gharuo/gharuo?style=for-the-badge">
-
+      
+   <p>
+      <img 
+         align="left"
+         alt="Github Stats"
+         height="200"
+         style="padding-right: 10px;"
+         src="./profile/stats.svg"
+         />
+            <img 
+         align="left"
+         alt="Github Stats"
+         height="200"
+         src="./profile/top-langs.svg"
+         />
+   
+      
    </p>
+
+
+
