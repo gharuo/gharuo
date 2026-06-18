@@ -53,3 +53,17 @@ const currentFocus = {
   architecture: ["Clean Architecture", "MVVM", "Repository Pattern", "BFF"],
   quality: ["Vitest", "Testing Library", "ESLint", "CI/CD"],
 };
+
+```
+
+## 🤖 Estatisticas 
+
+<p>
+      <img 
+         align="left"
+         alt="Github Stats"
+         height="200"
+         style="padding-right: 10px;"
+         src="./profile/stats.svg"
+         />
+</p>
