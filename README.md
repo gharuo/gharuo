@@ -1,41 +1,55 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Gabriel+Haruo+Chiyoshi;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Full-stack+Developer)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:2563eb&section=header"/>
 
-Sou desenvolvedor Front-end com foco em React, Next.js, TypeScript e TailwindCSS, apaixonado por construir interfaces modernas, performáticas e escaláveis.
-Tenho experiência na criação de componentes reutilizáveis, integração com APIs, formulários complexos, validações, testes automatizados e organização de projetos com boas práticas de arquitetura.
-Atualmente estou expandindo meus conhecimentos para o desenvolvimento fullstack, estudando back-end com .NET/C#, arquitetura de software, system design e padrões para aplicações mais robustas.
-Busco sempre entregar soluções com boa experiência de usuário, código limpo e estrutura preparada para crescimento.
+<h1 align="center">👩🏻‍💻 Olá, eu sou o Gabriel Haruo</h1>
 
-   ### Linguagens e Ferramentas
+<p align="center">
+  <strong>Desenvolvedor Front-end Pleno</strong> em evolução para <strong>Fullstack</strong>.<br/>
+  Construindo aplicações web modernas, escaláveis e bem estruturadas com React, Next.js, TypeScript e APIs robustas.
+</p>
 
-   ![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Next.js](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=nextdotjs)
-   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%236366F1.svg?style=for-the-badge&logo=tailwindcss)
-   ![dotnet](https://img.shields.io/badge/dotnet-%23512BD4.svg?style=for-the-badge&logo=dotnet)
-   ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://github.com/gharuo">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-haruo-chiyoshi">
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gharuod3v@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
-   ### Estatísticas
+## 🚀 Sobre mim
 
-      
-   <p>
-      <img 
-         align="left"
-         alt="Github Stats"
-         height="200"
-         style="padding-right: 10px;"
-         src="./profile/stats.svg"
-         />
-            <img 
-         align="left"
-         alt="Github Stats"
-         height="200"
-         src="./profile/top-langs.svg"
-         />
-   
-      
-   </p>
+Sou um desenvolvedor focado em criar interfaces performáticas, acessíveis e fáceis de manter.
 
+Atualmente atuo com **Front-end**, principalmente usando **React, Next.js, TypeScript e TailwindCSS**, e estou expandindo minha atuação para o lado **Fullstack**, estudando e criando projetos com **Node.js, C#, .NET, PostgreSQL, Prisma e Docker**.
 
+Meu foco é construir aplicações completas: da interface ao banco de dados, passando por autenticação, APIs, regras de negócio, arquitetura, testes e deploy.
 
+---
+
+## 🤖 Tecnologias que trabalho
+
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-0F172A?style=for-the-badge&logo=redux&logoColor=764ABC)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-0F172A?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![React Native](https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+
+## 🧠 Atualmente estudando
+
+```ts
+const currentFocus = {
+  frontend: ["React", "Next.js", "TypeScript", "TailwindCSS", "shadcn/ui"],
+  backend: ["Node.js", "Fastify", "C#", ".NET", "REST APIs"],
+  database: ["PostgreSQL", "Prisma", "SQL Server"],
+  architecture: ["Clean Architecture", "MVVM", "Repository Pattern", "BFF"],
+  quality: ["Vitest", "Testing Library", "ESLint", "CI/CD"],
+};
